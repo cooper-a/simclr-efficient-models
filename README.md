@@ -2,7 +2,10 @@
 
 Cooper Ang
 
-Accomanied Paper is availiable as a PDF [here](Self_Supervised_Contrastive_Learning_for_Efficient_Models.pdf).
+Accompanied paper is availiable as a PDF [here](Self_Supervised_Contrastive_Learning_for_Efficient_Models.pdf).
+
+## Description
+This repository contains the code for the final project of SYDE 572. The goal of this project was to implement a self-supervised contrastive learning algorithm and apply it with smaller more efficient model architectures. The code is based on the [SimCLR](https://arxiv.org/abs/2002.05709) paper.
 
 ## Requirements
 - [Anaconda](https://www.anaconda.com/download/)
@@ -21,9 +24,6 @@ pip install matplotlib
 pip install numpy
 pip install pandas
 ```
-
-## Description
-This repository contains the code for the final project of SYDE 572. The goal of this project is to implement a self-supervised contrastive learning algorithm and apply it with smaller more efficient model architectures. The code is based on the [SimCLR](https://arxiv.org/abs/2002.05709) paper.
 
 ## Dataset
 `CIFAR10` dataset is used in this repo, the dataset will be downloaded into `data` directory by `PyTorch` automatically.
