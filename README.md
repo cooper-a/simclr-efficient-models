@@ -2,7 +2,7 @@
 
 Cooper Ang
 
-Accomanied Paper is availiable as a PDF [here](Self_Supervised_Contrastive_Learning_for_Efficient_Models.md).
+Accomanied Paper is availiable as a PDF [here](Self_Supervised_Contrastive_Learning_for_Efficient_Models.pdf).
 
 ## Requirements
 - [Anaconda](https://www.anaconda.com/download/)
